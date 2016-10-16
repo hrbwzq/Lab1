@@ -1,10 +1,11 @@
-package Experiment_1;
+﻿package Experiment_1;
 import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+//合并同类项
 
 class PointLink 
 {

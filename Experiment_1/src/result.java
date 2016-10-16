@@ -5,7 +5,11 @@ import java.util.Hashtable;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 //合并同类项
+
+
+///处理表达式，验证其输入是否合法，并且将连乘改为次幂，省略的*加上
 
 class PointLink 
 {

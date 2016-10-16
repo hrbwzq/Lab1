@@ -2,4 +2,8 @@ adawd
 sdfsdf
 hello
 hello
+<<<<<<< HEAD
 zxc
+=======
+abc
+>>>>>>> C4

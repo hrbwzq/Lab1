@@ -1,4 +1,8 @@
 shit 
 shit
 shit
+<<<<<<< HEAD
 zxc
+=======
+abc
+>>>>>>> C4

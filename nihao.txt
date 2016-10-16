@@ -1,7 +1,12 @@
 ni hao 
 ni hao
 <<<<<<< HEAD
+<<<<<<< HEAD
 zxc
 =======
 abc
 >>>>>>> C4
+=======
+b2
+b2
+>>>>>>> B2
